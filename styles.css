@@ -1,0 +1,64 @@
+/* Navbar Logo */
+.navbar-brand {
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+}
+
+.navbar-brand i {
+    margin-right: 10px;
+}
+
+/* Hero Slideshow */
+.carousel-item img {
+    height: 85vh;
+    object-fit: cover;
+}
+
+.carousel-caption h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.carousel-caption p {
+    font-size: 1.2rem;
+}
+
+/* Services Section */
+#services {
+    background: #f9f9f9;
+    padding: 60px 0;
+}
+.about {
+    padding: 40px;
+    text-align: center;
+    background: #fff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.about h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.about p {
+    font-size: 1.2em;
+    line-height: 1.8;
+}
+
+.card i {
+    margin-bottom: 10px;
+    color: #4caf50;
+}
+
+/* Contact Section */
+#contact {
+    padding: 60px 0;
+    background-color: #f9f9f9;
+}
+
+.contact-form button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+}
